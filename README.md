@@ -1,5 +1,5 @@
 # MATLAB-code-for-QM-coder
-This repository contains MATLAB code for a binary arithmetic QM encoder used with some versions of JPEG.
+This repository contains MATLAB code for a binary arithmetic QM encoder which can be used to encode 8x8 DCT transformed, quantized image sub-blocks.
 
 Useage of this QM coder is shown in the demo_JPEG_QM.m file.
 
